@@ -36,7 +36,10 @@
 <br>
 <br>
 
-### ![Counts](https://komarev.com/ghpvc/?username=Suhel-Kap&color=blue&style=flat-square&label=Profile+Visits)
+<p align='center'>
+  <br>
+  <a href="#"><img src="https://badges.pufler.dev/visits/Suhel-Kap/Suhel-Kap"></a> hipsters and nerds have come here :-O
+</p>
 <hr>
 
 > "You miss 100% of the shots you don't take"
