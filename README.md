@@ -12,6 +12,7 @@
 [<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/suhel_kap/)
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/s_u_h_e_l_)
+[<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=suhelkapadia2@gmail.com)
 
 <br>
 <hr>
@@ -34,6 +35,8 @@
 
 <br>
 <br>
+
+### ![Counts](https://komarev.com/ghpvc/?username=Suhel-Kap&color=blue&style=flat-square&label=Profile+Visits)
 <hr>
 
 > "You miss 100% of the shots you don't take"
@@ -44,8 +47,15 @@
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Suhel Kapadia
 
+
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&&show_icons=true&title_color=ffffff&icon_color=FF4C29&text_color=EEEEEE&bg_color=082032">
+<table align="center"> <td>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhel-Kap&theme=vision-friendly-dark" />
+</td> </table>
+<table align="center"> <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhel-Kap&theme=vision-friendly-dark&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
+</td> </table>
 
 [linkedin]: https://www.linkedin.com/in/suhel-kapadia/
 [replit]:https://replit.com/@SuhelKap
