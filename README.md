@@ -40,7 +40,8 @@
   <br>
   <a href="#"><img src="https://badges.pufler.dev/visits/Suhel-Kap/Suhel-Kap"></a> hipsters and nerds have come here :-O
 </p>
-<hr>
+
+-------------------------------------------------
 
 > "You miss 100% of the shots you don't take"
 >
@@ -51,7 +52,8 @@
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Suhel Kapadia
 
 
-<hr>
+---------------------------------------------------
+
 <table align="center"> <td>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhel-Kap&theme=vision-friendly-dark" />
