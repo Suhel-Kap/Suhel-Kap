@@ -57,11 +57,11 @@
 ---------------------------------------------------
 
 <table align="center"> <td>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhel-Kap&theme=vision-friendly-dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhel-Kap&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
 </td> </table>
 <table align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhel-Kap&theme=vision-friendly-dark&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhel-Kap&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
 </td> </table>
 
 [linkedin]: https://www.linkedin.com/in/suhel-kapadia/
