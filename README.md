@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://suhelkapadia.engineer](https://suhelkapadia.engineer)
+- 👨‍💻 All of my projects are available at [my webiste](https://suhelkapadia.engineer)
 
 - 💬 Ask me about **web development and competitive coding**
 
-- 📫 How to reach me **suhelkapadia2@gmail.com**
+- 📫 How to reach me **suhelkapadia@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing](https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing)
 
 - ⚡ Fun fact **I hit the gym everyday, a fan of Sufi and Turkish music, a crazy binge watcher**
 
