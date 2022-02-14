@@ -1,63 +1,35 @@
-### Hola, I'm Suhel Kapadia! 👋
-<!-- 
-- 🔭 I’m currently working on Metier's Full Stack Website -->
-- 🌱 I’m currently learning Google Cloud Platform and everything related to cloud computing!
-- 👯 I’m looking to collaborate on web development and open source projects
+<!-- Create this readme profile from https://rahuldkjain.github.io/gh-profile-readme-generator/  -->
+<h1 align="center">Hi 👋, I'm Suhel Kapadia</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhel-kap&label=Profile%20views&color=0e75b6&style=flat" alt="suhel-kap" /> </p>
 
-- 💬 Ask me about web development and competitive coding
-- 🎯 My aim for this year is to get a good grip at Cloud Computing
-- ⚡ Fun fact: I hit the gym everyday, a fan of Sufi and Turkish music, a crazy binge watcher
+- 🌱 I’m currently learning **Next JS and Ruby on Rails**
 
-### Connect With Me
+- 👯 I’m looking to collaborate on **web development**
 
-[<img align="left" alt="Website" width="250px" src="https://img.shields.io/badge/WEBSITE-suhelkapadia-blue.svg?&style=for-the-badge&logo=website" />](https://suhelkapadia.engineer/)
-[<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/suhel_kap/)
-[<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=suhelkapadia2@gmail.com)
+- 👨‍💻 All of my projects are available at [https://suhelkapadia.engineer](https://suhelkapadia.engineer)
 
-<br>
-<hr>
+- 💬 Ask me about **web development and competitive coding**
 
-### Languages and tools
+- 📫 How to reach me **suhelkapadia2@gmail.com**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/octocat.png" />](https://www.github.com/Suhel-Kap/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="GCP" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][qwiklabs]
-[<img align="left" alt="GCP" width="100px" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />][replit]
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing](https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing)
 
-<br>
-<br>
+- ⚡ Fun fact **I hit the gym everyday, a fan of Sufi and Turkish music, a crazy binge watcher**
 
-<p align='center'>
-  <br>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Suhel-Kap/Suhel-Kap"></a> hipsters and nerds have come here :-O
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/suhelkap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhelkap" height="30" width="40" /></a>
+<a href="https://twitter.com/kapadiasuhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapadiasuhel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suhel-kapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhel-kapadia" height="30" width="40" /></a>
+<a href="https://instagram.com/suhel_kap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhel_kap" height="30" width="40" /></a>
+<a href="https://hashnode.com/@suhelk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@suhelk" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/suhel_kap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suhel_kap" height="30" width="40" /></a>
 </p>
 
--------------------------------------------------
-
-> "You miss 100% of the shots you don't take"
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Wayne Gretzky
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Michael Scott
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Suhel Kapadia
-
-
----------------------------------------------------
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <table align="center"> <td>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suhel-Kap&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Suhel-Kap&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -65,7 +37,3 @@
 <table align="center"> <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhel-Kap&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
 </td> </table>
-
-[linkedin]: https://www.linkedin.com/in/suhel-kapadia/
-[replit]:https://replit.com/@SuhelKap
-[qwiklabs]:https://google.qwiklabs.com/public_profiles/af8496e0-3032-48c2-887a-451a3f4bea5d
