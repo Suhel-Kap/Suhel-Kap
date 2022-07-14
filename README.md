@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhel-kap&label=Profile%20views&color=0e75b6&style=flat" alt="suhel-kap" /> </p>
 
-- 🌱 I’m currently learning **Next JS and Ruby on Rails**
+- 🌱 I’m currently learning **web3**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **web3 technologies**
 
 - 👨‍💻 Have a look at **[my webiste](https://suhelkapadia.engineer)**
 
