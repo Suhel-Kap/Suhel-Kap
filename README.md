@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhel-kap&label=Profile%20views&color=0e75b6&style=flat" alt="suhel-kap" /> </p>
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently building in **web3**
 
 - 👯 I’m looking to collaborate on **web3 technologies**
 
-- 👨‍💻 Have a look at **[my webiste](https://suhelkapadia.engineer)**
+- 👨‍💻 Have a look at **[my webiste](https://suhelkapadia.tech)**
 
-- 💬 Ask me about **web development and competitive coding**
+- 💬 Ask me about **web and blockchain developemnt**
 
 - 📫 How to reach me **suhelkapadia@yahoo.com**
 
-- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1OZt0mihDt7OTvXs_FTPtU5S9UrRN9pNQ/view?usp=sharing)**
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1iWuwe9jPCmiqiBgEsc5tuOjtBdGa4_3_/view)**
 
 - ⚡ Fun fact **I hit the gym everyday, a fan of Sufi and Turkish music, a crazy binge watcher**
 
